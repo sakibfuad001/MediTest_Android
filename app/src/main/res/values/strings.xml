@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MediAdmission</string>
+    <string name="button11">জীববিজ্ঞান ১ম পত্র</string>
+    <string name="button12">জীববিজ্ঞান ২য় পত্র</string>
+    <string name="button13">রসায়ন ১ম পত্র</string>
+    <string name="button14">রসায়ন ২য় পত্র</string>
+    <string name="button15">পদার্থবিজ্ঞান ১ম পত্র</string>
+    <string name="button16">পদার্থবিজ্ঞান পত্র</string>
+    <string name="button17">ইংরেজি</string>
+    <string name="button18">সাধারণ জ্ঞান</string>
+</resources>
